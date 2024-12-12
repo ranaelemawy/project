@@ -1,0 +1,25 @@
+/* .home{
+    height: 100vh;
+} */
+.content h1{
+    font-size: 80px ;
+font-weight: 700;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.content p{
+    font-size: 35px ;
+height: 40px ;
+
+}
+.content button{
+    color: #fff;
+    background-color: blue;
+  border: 2px solid black;
+    height: 80px;
+    width: 250px;
+    border-radius: 0%;
+}
+.content button:hover{
+    background-color: green;
+}
